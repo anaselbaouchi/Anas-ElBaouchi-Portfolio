@@ -21,7 +21,8 @@ Langage : Python
 Bibliothèques : RPi.GPIO, MFRC522, sqlite3
 Base de données : SQLite pour stocker les présences
 Interface utilisateur : Affichage des statistiques et gestion des utilisateurs
-![Aperçu du projet]()
+![Aperçu du projet](https://github.com/anaselbaouchi/Anas-ElBaouchi-Portfolio/raw/main/projet%201.png)
+
 
 
 - Fonctionnalités Clés
