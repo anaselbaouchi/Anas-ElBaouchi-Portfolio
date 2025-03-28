@@ -21,6 +21,8 @@ Langage : Python
 Bibliothèques : RPi.GPIO, MFRC522, sqlite3
 Base de données : SQLite pour stocker les présences
 Interface utilisateur : Affichage des statistiques et gestion des utilisateurs
+![Aperçu du projet]()
+
 
 - Fonctionnalités Clés
 Authentification sécurisée : Accès réservé aux professeurs via un login.
