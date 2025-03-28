@@ -44,6 +44,13 @@ Langage : C++
 Bibliothèque : wxWidgets (GUI)
 IDE : Visual Studio
 
+ Interface d'entrée  
+![Interface d'entrée](https://raw.githubusercontent.com/anaselbaouchi/Anas-ElBaouchi-Portfolio/main/input%20interface.jpg)
+
+ Popup de résultat  
+![Popup de résultat](https://raw.githubusercontent.com/anaselbaouchi/Anas-ElBaouchi-Portfolio/main/Result%20popup.jpg)
+
+
 - Fonctionnalités Clés
  Interface intuitive : Champ de saisie et bouton de validation.
  Base de données intégrée : Vérification des symboles chimiques (H, He, Li, etc.).
